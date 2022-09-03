@@ -1,0 +1,32 @@
+* {
+    font-family: copperplate, impact;
+}
+
+#title-header {
+/* text-align: center; */
+font-size: 50px;
+padding-left: 20px;
+background-color: rgb(44, 197, 243);
+color: white;
+}
+
+.mainBtns {
+    font-size: 25px;
+    margin: 20px;
+}
+
+.mainBtns:hover {
+    cursor: pointer;
+}
+
+/* pre {
+    font-size: 20px;
+    margin-left: 20px;
+    color: grey !important;
+} */
+
+/* #contentCal {
+    font-size: 20px !important;
+    margin-left: 20px !important;
+    color: grey !important;
+} */
